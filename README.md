@@ -1,6 +1,6 @@
 Hey, I'm Mor Baban
 AI builder based in Austin, TX.
-github.com/mobaban  ·  LinkedIn  ·  mbaban00@gmail.com
+github.com/mobaban  ·  [LinkedIn](https://www.linkedin.com/in/babanm/)  ·  mbaban00@gmail.com
 
 I spent a decade in technical sales and engineering in oil and gas and enterprise SaaS. Somewhere along the way I started building AI systems and didn't stop.
 I'm not a researcher. I build things that work in production, for real clients, with real constraints. The messy kind of AI work that doesn't look like a tutorial.
