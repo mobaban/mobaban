@@ -23,7 +23,7 @@ Stack: Python, Streamlit, Google Gemini, LangChain, LangGraph, RAG, ChromaDB/FAI
 
 ---
 
-**Medical RAG Assistant** | UT Austin GenAI Program
+**Medical RAG Assistant** | UT Austin Data Science / GenAI Postgrad
 
 Tested three ways to answer clinical questions: raw LLM, prompt engineering, and RAG over a medical manual. RAG won. Not just because it was more accurate. Because you could point to exactly which paragraph it used. In healthcare, traceability matters more than a confidence score. Built the full pipeline: PDF ingestion, chunking, OpenAI embeddings, ChromaDB, retrieval, generation. Evaluated everything with an LLM-as-judge scoring groundedness and relevance.
 
@@ -31,7 +31,7 @@ Stack: Python, LangChain, OpenAI API, ChromaDB
 
 ---
 
-**Stock Sentiment Analyzer** | UT Austin GenAI Program
+**Stock Sentiment Analyzer** | UT Austin Data Science / GenAI Postgrad
 
 NLP pipeline classifying financial news sentiment and correlating it with price movement. The lesson from this one: 90% accuracy sounds great until you realize your model just predicts the majority class every time. Chose evaluation metrics based on what failure actually costs, not what looks good in a report.
 
@@ -39,7 +39,7 @@ Stack: Python, Pandas, Scikit-learn, NLP
 
 ---
 
-**FoodHub Conversational Chatbot** | UT Austin GenAI Program
+**FoodHub Conversational Chatbot** | UT Austin Data Science / GenAI Postgrad
 
 Natural language to SQL. Users ask questions in plain English, the system writes and runs the query, returns a conversational answer. Built prompt templates to handle edge cases where the database just doesn't have what someone asked for.
 
